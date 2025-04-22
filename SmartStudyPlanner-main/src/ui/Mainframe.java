@@ -7,7 +7,7 @@ public class Mainframe extends JFrame {
 
     public Mainframe() {
         setTitle("Padhai Planner");
-        setSize(1600, 1200);
+        setSize(800, 600);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
 
